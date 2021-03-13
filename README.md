@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @er0man
+- 👀 I’m interested in ... learning all I can about how code works and its uses as a hobby and passion.
+- 🌱 I’m currently learning ... JavaScript
+- 💞️ I’m looking to collaborate on ... anything, I want to know more about how things work and any outlet will do just fine!
+- 📫 How to reach me ... email me @ enm.roman@gmail.com 
